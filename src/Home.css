@@ -1,0 +1,31 @@
+@media (max-width: 768px) {
+    body {
+        .home--row {
+            display: flex;
+            margin: 0;
+        }
+
+        .home--img {
+            margin: 0;
+            margin-bottom: -20px;          
+        }
+    }
+}
+
+.home {
+    max-width: 100%;
+}
+
+.home--row {
+    display: flex;
+    margin: 0 5px;
+}
+
+.home--img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    -webkit-mask-image: linear-gradient(to top, transparent, black 100%);
+    mask-image: linear-gradient(to top, transparent, black 100%);
+    margin-bottom: -150px;
+}
