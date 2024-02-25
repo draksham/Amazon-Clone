@@ -20,3 +20,17 @@ ShopSphere is a ReactJS-based Amazon clone designed to replicate the familiar e-
 
 ![ShopSphere Screenshot](https://github.com/draksham/Amazon-Clone/assets/123640464/bd8743d0-eb1a-499a-af86-a698992dfa78)
 
+### Getting Started
+
+To explore and run the project locally, follow these steps:
+
+#### Prerequisites
+- [NodeJS](https://nodejs.org/en/) - v16 or greater
+- [npm](https://www.npmjs.com/) - v6 or greater
+
+#### Clone the Repository
+```bash
+git clone https://github.com/draksham/Amazon-Clone.git
+cd Amazon-Clone
+npm install
+npm start
